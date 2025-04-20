@@ -1,4 +1,7 @@
-# Welcome to SmartSign!
+# Welcome to SmartSign – Secure Mobile Document Signing with Smart-ID!
+
+SmartSign is a mobile application for Android and iOS that enables users to securely sign documents using Smart-ID authentication. Built with a Kotlin Spring backend, the app manages user data and document workflows, communicating with a PostgreSQL database via JOOQ. Users can upload documents, send them to others for signing, and even initiate group signings with a defined signing order — all from their phones.
+
 Read the following instructions, to get to know how to run it.
 
 ## How to run this application? Pre-conditions.
