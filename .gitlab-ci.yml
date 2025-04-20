@@ -1,0 +1,8 @@
+# Template for the CI file. Currently only perforamtive. CI process missing due to application build being a paid feature. 
+# Discussed with the course lectures and we accept their proposals for 50% points.
+stages:
+- test
+sast:
+  stage: test
+include:
+- template: Security/SAST.gitlab-ci.yml
